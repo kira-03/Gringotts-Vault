@@ -18,13 +18,13 @@ const Sidebar = ({ fullName, avatar, email }: Props) => {
   return (
     <aside className="sidebar">
       <Link href="/">
-        <Image
+        {/* <Image
           src="/assets/icons/logo-full-brand.svg"
           alt="logo"
           width={160}
           height={50}
           className="hidden h-auto lg:block"
-        />
+        /> */}
 
         <Image
           src="/assets/icons/logo-brand.svg"
@@ -62,13 +62,15 @@ const Sidebar = ({ fullName, avatar, email }: Props) => {
         </ul>
       </nav>
 
-      <Image
-        src="/assets/images/files-2.png"
-        alt="logo"
-        width={506}
-        height={418}
-        className="w-full"
-      />
+        <Image
+      src="/assets/images/magical folder.png"
+      alt="logo"
+      width={506}
+      height={418}
+      className="w-full transition-all transform hover:scale-105 hover:rotate-6"
+    />
+
+
 
       <div className="sidebar-user-info">
         <Image
