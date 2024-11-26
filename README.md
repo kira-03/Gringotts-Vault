@@ -1,5 +1,5 @@
 # Gringotts Vault 🏦✨  
-**Gringotts Vault** is a modern Google Drive clone, designed to explore innovative technologies and storage system backends. Built with **Appwrite** and a sleek tech stack, it redefines file storage and management with a clean, responsive design.  
+**Gringotts Vault** is a modern **Google Drive clone**, designed to explore innovative technologies and storage system backends. Built with **Appwrite** and a sleek tech stack, it redefines file storage and management with a clean, responsive design.  
 
 ---
 
