@@ -43,6 +43,9 @@
 This project is a journey to dive into modern storage systems while leveraging the capabilities of Appwrite, React, and Next.js. It's focused on scalability, performance, and an exceptional user experience.  
 
 ---
+## 🧙‍♂️ **Harry Potter Reference**  
+As a proud **Potterhead**, the name **Gringotts Vault** is inspired by the magical vaults in the Harry Potter universe, which are used to safely store valuable treasures. Just like the Gringotts Wizarding Bank ensures the safety of your treasures, **Gringotts Vault** aims to keep your files secure, no dragons required! 🐉
+---
 
 ## 📌 Note  
 Gringotts Vault is a **work in progress**. While the core features are functional, there are a few minor bugs that I’m actively working on resolving.
