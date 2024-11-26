@@ -45,7 +45,8 @@ This project is a journey to dive into modern storage systems while leveraging t
 ---
 
 ## 📌 Note  
-Gringotts Vault is a **work in progress**. While the core features are functional, there are a few minor bugs that I’m actively working on resolving.  
+Gringotts Vault is a **work in progress**. While the core features are functional, there are a few minor bugs that I’m actively working on resolving.
+ou can explore the live project [here](https://gringotts-vault-rouge.vercel.app/sign-in).
 
 
 
