@@ -4,7 +4,9 @@
 ---
 
 ## 🖼️ Dashboard  
-[![Dashboard](https://github.com/kira-03/Gringotts-Vault/blob/main/public/assets/images/Dashboard.png)](https://gringotts-vault-rouge.vercel.app/sign-in)  
+<a href="https://gringotts-vault-rouge.vercel.app/sign-in" target="_blank">
+  <img src="https://github.com/kira-03/Gringotts-Vault/blob/main/public/assets/images/Dashboard.png" alt="Dashboard" />
+</a>  
 *Click on the image to visit the live project!*
 
 ---
