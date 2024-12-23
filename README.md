@@ -3,6 +3,12 @@
 
 ---
 
+## 🖼️ Dashboard  
+[![Dashboard](https://github.com/kira-03/Gringotts-Vault/blob/main/public/assets/images/Dashboard.png)](https://gringotts-vault-rouge.vercel.app/sign-in)  
+*Click on the image to visit the live project!*
+
+---
+
 ## 🛠️ Tech Stack  
 - ⚛️ **React 19** – Interactive and responsive UI.  
 - 🌐 **Next.js 15** – Server-side rendering for seamless performance.  
