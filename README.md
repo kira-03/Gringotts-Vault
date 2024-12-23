@@ -7,7 +7,12 @@
 <a href="https://gringotts-vault-rouge.vercel.app/sign-in" target="_blank">
   <img src="https://github.com/kira-03/Gringotts-Vault/blob/main/public/assets/images/Dashboard.png" alt="Dashboard" />
 </a>  
-*Click on the image to visit the live project!*
+
+---
+
+<div style="border: 2px solid #000; padding: 10px; text-align: center; background-color: #f9f9f9; font-weight: bold;">
+Click on the image above to visit the live project!
+</div>
 
 ---
 
