@@ -3,7 +3,7 @@
 
 ---
 
-## 🖼️ Dashboard  
+## 🖼️ Dashboard 
 <a href="https://gringotts-vault-rouge.vercel.app/sign-in" target="_blank">
   <img src="https://github.com/kira-03/Gringotts-Vault/blob/main/public/assets/images/Dashboard.png" alt="Dashboard" />
 </a>  
